@@ -1,0 +1,10 @@
+C:\Users\cajae\source\repos\Laboratorio 13\Laboratorio 131\bin\Debug\Laboratorio 131.exe.config
+C:\Users\cajae\source\repos\Laboratorio 13\Laboratorio 131\bin\Debug\Laboratorio 131.exe
+C:\Users\cajae\source\repos\Laboratorio 13\Laboratorio 131\bin\Debug\Laboratorio 131.pdb
+C:\Users\cajae\source\repos\Laboratorio 13\Laboratorio 131\obj\Debug\Laboratorio 131.csproj.AssemblyReference.cache
+C:\Users\cajae\source\repos\Laboratorio 13\Laboratorio 131\obj\Debug\Laboratorio_131.Form1.resources
+C:\Users\cajae\source\repos\Laboratorio 13\Laboratorio 131\obj\Debug\Laboratorio_131.Properties.Resources.resources
+C:\Users\cajae\source\repos\Laboratorio 13\Laboratorio 131\obj\Debug\Laboratorio 131.csproj.GenerateResource.cache
+C:\Users\cajae\source\repos\Laboratorio 13\Laboratorio 131\obj\Debug\Laboratorio 131.csproj.CoreCompileInputs.cache
+C:\Users\cajae\source\repos\Laboratorio 13\Laboratorio 131\obj\Debug\Laboratorio 131.exe
+C:\Users\cajae\source\repos\Laboratorio 13\Laboratorio 131\obj\Debug\Laboratorio 131.pdb
